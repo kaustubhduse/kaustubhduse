@@ -1,8 +1,7 @@
-👋 Hi, I’m <strong>@kaustubhduse</strong>
 
-👀 I’m interested in Full Stack Development, Generative AI, and building innovative software solutions.
-
-🌱 I’m currently deepening my expertise in Backend Development using Node.js, Express.js, and MongoDB and currently exploring system design.
+- 👋 Hi, I’m <strong>@kaustubhduse</strong>
+- 👀 I’m interested in Full Stack Development, Generative AI, and building innovative software solutions.
+- 🌱 I’m currently deepening my expertise in Backend Development using Node.js, Express.js, and MongoDB and currently exploring system design.
 
 <p align="center">
 <a href="https://x.com/KaustubhDuse" target="_blank">
@@ -14,7 +13,7 @@
 </a>
 </p>
 
-Skills
+## Skills
 <p align="center">
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a>
@@ -30,12 +29,12 @@ Skills
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/></a>
 </p>
 
-LeetCode Stats
+## LeetCode Stats
 <p align="center">
-<img src="https://leetcode.com/u/kd202004" alt="Kaustubh's LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/kd202004" alt="Kaustubh's LeetCode Stats"/>
 </p>
 
-GitHub Stats
+## GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kaustubhduse&show_icons=true&theme=dracula" alt="Kaustubh's GitHub Stats"/>
 <br/>
