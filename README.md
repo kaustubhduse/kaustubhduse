@@ -32,7 +32,7 @@ Skills
 
 LeetCode Stats
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/kaustubhduse" alt="Kaustubh's LeetCode Stats"/>
+<img src="https://leetcode.com/u/kd202004" alt="Kaustubh's LeetCode Stats"/>
 </p>
 
 GitHub Stats
