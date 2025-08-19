@@ -2,8 +2,6 @@
 <h3 align="center">🚀 MERN Stack and Gen AI Developer passionate about new technologies</h3>
 - 🌱 I’m currently deepening my expertise in Backend Development using Node.js, Express.js, and MongoDB and currently exploring system design.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustubhduse&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubhduse" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaustubhduse" alt="kaustubhduse" /></a> </p>
 
 - 🌱 I’m currently learning **HLD, LLD, and how to design scalable projects.**
