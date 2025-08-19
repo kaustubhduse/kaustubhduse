@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kaustubh Duse</h1>
 <h3 align="center">🚀 MERN Stack and Gen AI Developer passionate about new technologies</h3>
-- 🌱 I’m currently deepening my expertise in Backend Development using Node.js, Express.js, and MongoDB and currently exploring system design.
+
+### 🌱 Currently Exploring
+- Learning **System Design (HLD & LLD)** to build scalable, production-grade projects
+
+### 🏆 GitHub Achievements
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaustubhduse" alt="kaustubhduse" /></a> </p>
 
@@ -22,8 +26,10 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <!-- Programming Languages -->
+
+<!-- Programming Languages -->
+<p>
+  <b>Programming Languages:</b><br/>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a>
@@ -45,16 +51,19 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
-  
-  <!-- Frameworks / Libraries -->
+</p>
+
+<!-- Frameworks / Libraries -->
+<p>
+  <b>Frameworks / Libraries:</b><br/>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" style="background-color:white; padding:5px; border-radius:8px;"/>
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40" style="background-color:white; padding:5px; border-radius:8px;"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
@@ -62,8 +71,11 @@
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
   </a>
+</p>
 
-  <!-- Databases & Messaging -->
+<!-- Databases & Messaging -->
+<p>
+  <b>Databases & Messaging:</b><br/>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
@@ -82,8 +94,11 @@
   <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> 
   </a>
-  
-  <!-- DevOps / Tools -->
+</p>
+
+<!-- DevOps / Tools -->
+<p>
+  <b>DevOps / Tools:</b><br/>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a>
@@ -108,8 +123,11 @@
   <a href="https://argo-cd.readthedocs.io/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/argo.svg" alt="argoCD" width="40" height="40"/> 
   </a>
+</p>
 
-  <!-- Monitoring Tools -->
+<!-- Monitoring Tools -->
+<p>
+  <b>Monitoring Tools:</b><br/>
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/> 
   </a>
@@ -117,6 +135,7 @@
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
   </a>
 </p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaustubhduse&show_icons=true&locale=en&layout=compact" alt="kaustubhduse" /></p>
